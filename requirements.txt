@@ -1,0 +1,5 @@
+flask
+speech-recognition
+google_translator
+pyttsx3
+playsound
