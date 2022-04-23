@@ -1,5 +1,5 @@
 flask
-speech-recognition
+speech_recognition
 google_translator
 pyttsx3
 playsound
